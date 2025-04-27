@@ -6,7 +6,7 @@
 
 # Key Learnings:
 
-# 1. How to read and write into a file in node.js using readSync and writeFileSync.
+# 1. How to read and write into a file in node.js using readFileSync and writeFileSync.
 
 # 2. How to parse json data using JSON.parse() and JSON.stringify().
 
