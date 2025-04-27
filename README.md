@@ -2,6 +2,8 @@
 
 # This is a simple program that allows you to add, remove, update, and list tasks from a json file.
 
+# Install the prompt-sync module using `npm install prompt-sync` before running the program.
+
 # Key Learnings:
 
 # 1. How to read and write into a file in node.js using readSync and writeFileSync.
