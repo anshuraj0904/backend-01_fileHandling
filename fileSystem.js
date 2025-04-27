@@ -1,5 +1,3 @@
-// Starting the backend journey, and we'll start with reading and writing into a file, basically into a file system.
-
 const fs = require("fs")
 const filePath = './tasks.json'
 const prompt = require('prompt-sync')();  // This will allow us to use the prompt in the console itself. 
