@@ -1,6 +1,6 @@
 const fs = require("fs")
 const filePath = './tasks.json'
-const prompt = require('prompt-sync')();  // This will allow us to use the prompt in the console itself. 
+const prompt = require('prompt-sync')();  // This will allow us to use the prompt in the terminal itself. 
 
 
 // We'll be adding a task from the argument(cli) into the tasks.json
